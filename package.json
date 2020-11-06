@@ -1,0 +1,39 @@
+{
+  "name": "area-data-xcx",
+  "version": "1.0.0",
+  "author": "jasonzzpro@gmail.com",
+  "description": "中国省、市、区、街道数据(含港澳台)",
+  "license": "MIT",
+  "main": "./data.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvazz/area-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alvazz/area-data/issues"
+  },
+  "files": [
+    "data.js",
+    "package.json",
+    "area-xcx.js",
+    "README.md"
+  ],
+  "keywords": [
+    "china",
+    "area",
+    "行政区域代码",
+    "china area",
+    "picker",
+    "area picker",
+    "中国省份"
+  ],
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  },
+  "dependencies": {},
+  "homepage": "https://github.com/alvazz/area-data#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
